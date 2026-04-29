@@ -1,44 +1,122 @@
-# Healthcare-Analysis
-EDA on Healthcare data using Excel, SQL, Python and PowerBi
+# 🏥 Healthcare Analysis Project
 
-# Scope
-This report summarizes the key activities, findings, and outcomes of the Healthcare 
-Analytics Internship conducted at Curvelogics, with a real-world analytics project 
-executed for the client CareNova, a healthcare services provider. 
-The primary objective of the internship was to transform raw healthcare data into 
-actionable insights through a structured analytics workflow involving Excel, SQL 
-Server, Python, Power Query, and Power BI. 
-The project focused on understanding patient treatment patterns, costs, outcomes, 
-and operational performance to support data-driven decision-making for CareNova. 
+## 📌 Project Overview
 
-# Key Objectives 
-• Clean and prepare multi-source healthcare treatment data. 
-• Build a structured SQL model for aggregations, KPIs, and advanced analysis. 
-• Develop interactive dashboards showcasing trends & insights. 
-• Identify operational inefficiencies, cost variations, and performance gaps. 
-• Present findings that support CareNova’s clinical & administrative decision
-making
+This project presents an Exploratory Data Analysis (EDA) and Business Intelligence solution developed using Excel, SQL Server, Python, Power Query, and Power BI.
 
-# Business Need
-CareNova required a centralized analytics framework to: 
-• Track patient outcomes 
-• Monitor costs across treatments & departments 
-• Identify inefficiencies in treatment duration 
-• Analyze doctor & department performance 
-• Improve patient satisfaction and operational throughput
+The analysis was conducted as part of a Healthcare Analytics Internship at Curvelogics for the client CareNova, a healthcare services provider. The project focused on transforming raw healthcare data into actionable insights to improve operational efficiency, patient care, and business decision-making.
 
-# Skills Developed 
-• Technical: SQL Server, Python, Power BI, Power Query, DAX, Data 
-modelling. 
-• Analytical: KPI formulation, cluster analysis, trend analysis 
-• Professional: Reporting, documentation, communication, presentation 
-• Domain: Understanding of healthcare metrics, treatment workflows 
+---
 
-# Conclusion 
-This internship provided practical exposure to real-world healthcare analytics. 
-The project helped transform raw hospital data into meaningful insights that can 
-guide strategic improvements for CareNova. 
-The combination of SQL modelling, Power BI dashboards, and structured analytics 
-strengthened both technical and analytical expertise while contributing measurable 
-value to the client.  
-The outcomes of this project lay a stro
+# 🎯 Project Objectives
+
+- Clean and prepare healthcare datasets from multiple sources
+- Build SQL-based analytical models and KPIs
+- Analyze patient treatment patterns and operational trends
+- Develop interactive Power BI dashboards
+- Identify inefficiencies in treatment duration and costs
+- Support data-driven healthcare decision-making
+
+---
+
+# 🏢 Business Requirements
+
+CareNova required a centralized analytics solution to:
+
+- Monitor patient outcomes and treatment effectiveness
+- Track treatment costs across departments
+- Identify operational inefficiencies
+- Evaluate doctor and department performance
+- Improve patient satisfaction and operational throughput
+
+---
+
+# 🛠 Tools & Technologies Used
+
+- Excel
+- SQL Server
+- Python
+- Power Query
+- Power BI
+- DAX
+- Data Modelling
+
+---
+
+# 📊 Key Analytical Areas
+
+- Patient Treatment Analysis
+- Cost & Revenue Analysis
+- Department Performance Analysis
+- Doctor Performance Monitoring
+- Operational Efficiency Tracking
+- KPI & Trend Analysis
+- Data Visualization & Reporting
+
+---
+
+# 📈 Project Workflow
+
+1. Data Cleaning & Preparation  
+2. SQL Data Modelling & Querying  
+3. Exploratory Data Analysis using Python  
+4. KPI Calculation & Trend Analysis  
+5. Dashboard Development in Power BI  
+6. Business Insight Generation
+
+---
+
+# 💡 Key Insights Generated
+
+- Identified treatment cost variations across departments
+- Analyzed patient treatment durations and operational bottlenecks
+- Evaluated doctor and department performance metrics
+- Improved visibility into healthcare operations through dashboards
+- Generated data-driven recommendations for operational improvement
+
+---
+
+# 🚀 Skills Demonstrated
+
+## Technical Skills
+- SQL Querying
+- Power BI Dashboarding
+- Python Data Analysis
+- Power Query Transformation
+- DAX Calculations
+- Data Modelling
+
+## Analytical Skills
+- KPI Formulation
+- Trend Analysis
+- Cluster Analysis
+- Business Insight Generation
+- Performance Evaluation
+
+## Professional Skills
+- Reporting & Documentation
+- Presentation & Communication
+- Problem Solving
+- Stakeholder-focused Analytics
+
+---
+
+# 📷 Dashboard Preview
+
+## Healthcare Dashboard
+
+---
+
+# 📌 Project Outcome
+
+This project successfully transformed raw healthcare data into meaningful business insights that support strategic and operational decision-making.
+
+The combination of SQL modelling, Python analysis, and Power BI dashboards strengthened analytical capabilities while delivering measurable value through data-driven healthcare insights.
+
+---
+
+# 👨‍💻 Author
+
+**Sooraj**
+
+Aspiring Data Analyst skilled in SQL, Power BI, Excel, Python, and Business Analytics.
